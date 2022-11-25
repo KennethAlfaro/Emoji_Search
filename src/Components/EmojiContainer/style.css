@@ -1,0 +1,33 @@
+aside{
+    margin: 0 auto;
+    margin-top: 50px;
+    border: 1px solid grey;
+    width: 40vh;
+    height: 50vh;
+    border-radius: 25px;
+    box-shadow: 0px 2px 14px 5px rgba(0,0,0,0.46);
+-webkit-box-shadow: 0px 2px 14px 5px rgba(0,0,0,0.46);
+-moz-box-shadow: 0px 2px 14px 5px rgba(0,0,0,0.46);
+background-color:  white;
+}
+span{
+    font-size: 100px;
+}
+h1{
+    font-size: 35px;
+    padding: 15px;
+    margin: 0 auto;
+}
+hr{
+    position: relative;
+    top: 10px
+}
+#barraTitulo{
+    width: 250px;
+}
+article{
+    background-color:#e8e8e8 ;
+    border-radius:  0 0 25px 25px;
+    height: 31vh;
+
+}
